@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+pygal
+seaborn
+scipy
+
+joblib
+
+gmaps
+
+jupyter
+jupyterlab
+
+ipython
+ipdb
+flake8
